@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { postCategories } from '../ApiRequest/ApiRequest'
 import { NavLink } from 'react-router-dom'
-import Home from './../Pages/Home';
+
 
 const Layout = (props) => {
 
